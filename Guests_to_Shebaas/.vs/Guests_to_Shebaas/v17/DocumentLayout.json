@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kodcode\\Guests_to_Shebaas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\form2guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\form2guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\form2guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\form2guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCCB1A3-1CFB-4EF5-B431-F1B0113A5FCD}|..\\Time_clock\\Time_clock\\Time_clock.csproj|d:\\kodcode\\time_clock\\time_clock\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\control_guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\control_guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827F714F-ED44-4465-8E84-D1C3FBB3F83C}|..\\WindowsFormsApp1\\Host_to_Shebaas.csproj|d:\\kodcode\\windowsformsapp1\\form1host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827F714F-ED44-4465-8E84-D1C3FBB3F83C}|..\\WindowsFormsApp1\\Host_to_Shebaas.csproj|d:\\kodcode\\windowsformsapp1\\form1host.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827F714F-ED44-4465-8E84-D1C3FBB3F83C}|..\\WindowsFormsApp1\\Host_to_Shebaas.csproj|d:\\kodcode\\windowsformsapp1\\form1host.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\form1guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\form1guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\dbsconectionguests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\dbsconectionguests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|d:\\kodcode\\guests_to_shebaas\\guests_to_shebaas\\form1guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F8696993-E8BE-42C1-AFBA-D30D529D1E0E}|Guests_to_Shebaas\\Guests_to_Shebaas.csproj|solutionrelative:guests_to_shebaas\\form1guests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1Host.cs",
+              "DocumentMoniker": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1Host.cs",
+              "ToolTip": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1Host.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA+wEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:07:39.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1Host.cs [Design]",
+              "DocumentMoniker": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1Host.cs",
+              "ToolTip": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.cs [Design]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1Host.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:07:32.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2Guests.cs",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form2Guests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\Form2Guests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form2Guests.cs",
+              "RelativeToolTip": "Guests_to_Shebaas\\Form2Guests.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwGEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:01:23.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2Guests.cs [Design]",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form2Guests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\Form2Guests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form2Guests.cs [Design]",
+              "RelativeToolTip": "Guests_to_Shebaas\\Form2Guests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:01:21.685Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Control_Guests.cs",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Control_Guests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\Control_Guests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Control_Guests.cs",
+              "RelativeToolTip": "Guests_to_Shebaas\\Control_Guests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAqwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:40:45.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConection.cs",
+              "DocumentMoniker": "D:\\kodcode\\Time_clock\\Time_clock\\DBConection.cs",
+              "RelativeDocumentMoniker": "..\\Time_clock\\Time_clock\\DBConection.cs",
+              "ToolTip": "D:\\kodcode\\Time_clock\\Time_clock\\DBConection.cs",
+              "RelativeToolTip": "..\\Time_clock\\Time_clock\\DBConection.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:14:54.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1Host.Designer.cs",
+              "DocumentMoniker": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\Form1Host.Designer.cs",
+              "ToolTip": "D:\\kodcode\\WindowsFormsApp1\\Form1Host.Designer.cs",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\Form1Host.Designer.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAawEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:25:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBSConectionGuests.cs",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\DBSConectionGuests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\DBSConectionGuests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\DBSConectionGuests.cs",
+              "RelativeToolTip": "Guests_to_Shebaas\\DBSConectionGuests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:42:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1Guests.cs",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form1Guests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\Form1Guests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form1Guests.cs",
+              "RelativeToolTip": "Guests_to_Shebaas\\Form1Guests.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAmwDMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:39:35.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1Guests.cs [Design]",
+              "DocumentMoniker": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form1Guests.cs",
+              "RelativeDocumentMoniker": "Guests_to_Shebaas\\Form1Guests.cs",
+              "ToolTip": "D:\\kodcode\\Guests_to_Shebaas\\Guests_to_Shebaas\\Form1Guests.cs [Design]",
+              "RelativeToolTip": "Guests_to_Shebaas\\Form1Guests.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:34:41.6Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

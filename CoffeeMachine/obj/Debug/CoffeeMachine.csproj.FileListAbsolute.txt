@@ -1,0 +1,10 @@
+D:\kodcode\Riposetory\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+D:\kodcode\Riposetory\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+D:\kodcode\Riposetory\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.AssemblyReference.cache
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.Form1.resources
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.Properties.Resources.resources
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.GenerateResource.cache
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+D:\kodcode\Riposetory\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

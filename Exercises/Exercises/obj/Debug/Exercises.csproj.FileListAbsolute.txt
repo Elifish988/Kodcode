@@ -1,0 +1,10 @@
+D:\kodcode\Exercises\Exercises\bin\Debug\Exercises.exe.config
+D:\kodcode\Exercises\Exercises\bin\Debug\Exercises.exe
+D:\kodcode\Exercises\Exercises\bin\Debug\Exercises.pdb
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.Properties.Resources.resources
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.csproj.GenerateResource.cache
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.exe
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.pdb
+D:\kodcode\Exercises\Exercises\obj\Debug\Exercises.Form1.resources

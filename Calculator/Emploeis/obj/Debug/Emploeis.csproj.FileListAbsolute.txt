@@ -1,0 +1,10 @@
+D:\kodcode\Calculator\Emploeis\bin\Debug\Emploeis.exe.config
+D:\kodcode\Calculator\Emploeis\bin\Debug\Emploeis.exe
+D:\kodcode\Calculator\Emploeis\bin\Debug\Emploeis.pdb
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.csproj.AssemblyReference.cache
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.Properties.Resources.resources
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.csproj.GenerateResource.cache
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.csproj.CoreCompileInputs.cache
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.exe
+D:\kodcode\Calculator\Emploeis\obj\Debug\Emploeis.pdb
+D:\kodcode\Calculator\Emploeis\obj\Debug\Empluys.Form1.resources

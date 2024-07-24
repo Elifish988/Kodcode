@@ -1,0 +1,57 @@
+<Queries>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>9</DayMonth>
+    <Month>אדר השני</Month>
+    <Year>תשפ"ז</Year>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>6</DayMonth>
+    <Month>אדר השני</Month>
+    <Year>תשפ"ח</Year>
+    <Result>ברביעי בשבת שמנה ימים לירח  לירח אדר השני שנת תשפ"ח לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>אדר הראשון</Month>
+    <Year>תשפ"ט</Year>
+    <Result>ברביעי בשבת ששה ימים לירח  אדר הראשון שנת תשפ"ט לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>4</DayMonth>
+    <Month>שבט</Month>
+    <Year>תשפ"ו</Year>
+    <Result>בחמישי בשבת ששה ימים לירח  שבט שנת תשפ"ו לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>רביעי</Day>
+    <DayMonth>7</DayMonth>
+    <Month>אדר השני</Month>
+    <Year>תשפ"ז</Year>
+    <Result>ברביעי בשבת תשעה ימים לירח  אדר השני שנת תשפ"ז לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>ראשון</Day>
+    <DayMonth>6</DayMonth>
+    <Month>חשוון</Month>
+    <Year>תשפ"ה</Year>
+    <Result>באחד בשבת שמנה ימים לירח  חשוון שנת תשפ"ה לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>חמישי</Day>
+    <DayMonth>30</DayMonth>
+    <Month>כסלו</Month>
+    <Year>תשפ"ו</Year>
+    <Result>בחמישי בשבת יום שלושים ימים לירח  כסלו שנת תשפ"ו לבריאת העולם.</Result>
+  </Query>
+  <Query>
+    <Day>שני</Day>
+    <DayMonth>3</DayMonth>
+    <Month>טבת</Month>
+    <Year>תשפ"ח</Year>
+    <Result>בשני בשבת שלשה ימים לירח  טבת שנת תשפ"ח לבריאת העולם.</Result>
+  </Query>
+</Queries>

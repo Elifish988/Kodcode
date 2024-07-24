@@ -1,0 +1,11 @@
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.csproj.AssemblyReference.cache
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.Form1.resources
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.Form2.resources
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.Properties.Resources.resources
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.csproj.GenerateResource.cache
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.csproj.CoreCompileInputs.cache
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\bin\Debug\Guests_to_Shebaas.exe.config
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\bin\Debug\Guests_to_Shebaas.exe
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\bin\Debug\Guests_to_Shebaas.pdb
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.exe
+D:\kodcode\Guests_to_Shebaas\Guests_to_Shebaas\obj\Debug\Guests_to_Shebaas.pdb

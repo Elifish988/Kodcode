@@ -1,0 +1,11 @@
+D:\kodcode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\kodcode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\kodcode\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\kodcode\WindowsFormsApp1\obj\Debug\Host_to_Shebaas.csproj.AssemblyReference.cache
+D:\kodcode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\kodcode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2Host.resources
+D:\kodcode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\kodcode\WindowsFormsApp1\obj\Debug\Host_to_Shebaas.csproj.GenerateResource.cache
+D:\kodcode\WindowsFormsApp1\obj\Debug\Host_to_Shebaas.csproj.CoreCompileInputs.cache
+D:\kodcode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\kodcode\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

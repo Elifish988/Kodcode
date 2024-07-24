@@ -1,0 +1,13 @@
+D:\kodcode\College_meneger\bin\Debug\College_meneger.exe.config
+D:\kodcode\College_meneger\bin\Debug\College_meneger.exe
+D:\kodcode\College_meneger\bin\Debug\College_meneger.pdb
+D:\kodcode\College_meneger\obj\Debug\College_meneger.csproj.AssemblyReference.cache
+D:\kodcode\College_meneger\obj\Debug\College_meneger.Form1.resources
+D:\kodcode\College_meneger\obj\Debug\College_meneger.Form2.resources
+D:\kodcode\College_meneger\obj\Debug\College_meneger.Properties.Resources.resources
+D:\kodcode\College_meneger\obj\Debug\College_meneger.csproj.GenerateResource.cache
+D:\kodcode\College_meneger\obj\Debug\College_meneger.csproj.CoreCompileInputs.cache
+D:\kodcode\College_meneger\obj\Debug\College_meneger.exe
+D:\kodcode\College_meneger\obj\Debug\College_meneger.pdb
+D:\kodcode\College_meneger\obj\Debug\College_meneger.Form3.resources
+D:\kodcode\College_meneger\obj\Debug\College_meneger.Create_course.resources

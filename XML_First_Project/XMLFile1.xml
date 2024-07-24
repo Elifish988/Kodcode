@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+	<Employee id="1" name="Eli" age="22.75"/>
+
+
+	<Employee id="2" name="Yaki" age="21">
+		<Address street="rubin" number="15" city="Elad"/>
+	</Employee>
+
+	<Employee id="3" name="Ari" age="23">
+
+		<MonthsWorked>
+			<Month number="1" daysWorked="20"/>
+			<Month number="2" daysWorked="18"/>
+			<Month number="3" daysWorked="22"/>
+		</MonthsWorked>
+	</Employee>
+</Employees>

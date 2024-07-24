@@ -1,0 +1,12 @@
+D:\kodcode\College\College\bin\Debug\College.exe.config
+D:\kodcode\College\College\bin\Debug\College.exe
+D:\kodcode\College\College\bin\Debug\College.pdb
+D:\kodcode\College\College\obj\Debug\College.csproj.AssemblyReference.cache
+D:\kodcode\College\College\obj\Debug\College.Form1.resources
+D:\kodcode\College\College\obj\Debug\College.Properties.Resources.resources
+D:\kodcode\College\College\obj\Debug\College.csproj.GenerateResource.cache
+D:\kodcode\College\College\obj\Debug\College.csproj.CoreCompileInputs.cache
+D:\kodcode\College\College\obj\Debug\College.exe
+D:\kodcode\College\College\obj\Debug\College.pdb
+D:\kodcode\College\College\obj\Debug\College.Form2.resources
+D:\kodcode\College\College\obj\Debug\College.btnPay.resources

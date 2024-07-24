@@ -1,0 +1,10 @@
+D:\kodcode\Riposetory\Rabanut_IDF\bin\Debug\Rabanut_IDF.exe.config
+D:\kodcode\Riposetory\Rabanut_IDF\bin\Debug\Rabanut_IDF.exe
+D:\kodcode\Riposetory\Rabanut_IDF\bin\Debug\Rabanut_IDF.pdb
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.csproj.AssemblyReference.cache
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.Form1.resources
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.Properties.Resources.resources
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.csproj.GenerateResource.cache
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.csproj.CoreCompileInputs.cache
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.exe
+D:\kodcode\Riposetory\Rabanut_IDF\obj\Debug\Rabanut_IDF.pdb

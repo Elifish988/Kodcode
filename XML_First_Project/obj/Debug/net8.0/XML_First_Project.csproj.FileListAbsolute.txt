@@ -1,0 +1,14 @@
+D:\kodcode\Riposetory\XML_First_Project\bin\Debug\net8.0\XML_First_Project.exe
+D:\kodcode\Riposetory\XML_First_Project\bin\Debug\net8.0\XML_First_Project.deps.json
+D:\kodcode\Riposetory\XML_First_Project\bin\Debug\net8.0\XML_First_Project.runtimeconfig.json
+D:\kodcode\Riposetory\XML_First_Project\bin\Debug\net8.0\XML_First_Project.dll
+D:\kodcode\Riposetory\XML_First_Project\bin\Debug\net8.0\XML_First_Project.pdb
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.AssemblyInfoInputs.cache
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.AssemblyInfo.cs
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.csproj.CoreCompileInputs.cache
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.dll
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\refint\XML_First_Project.dll
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.pdb
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\XML_First_Project.genruntimeconfig.cache
+D:\kodcode\Riposetory\XML_First_Project\obj\Debug\net8.0\ref\XML_First_Project.dll

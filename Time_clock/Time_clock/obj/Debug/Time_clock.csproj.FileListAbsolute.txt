@@ -1,0 +1,12 @@
+D:\kodcode\Time_clock\Time_clock\bin\Debug\Time_clock.exe.config
+D:\kodcode\Time_clock\Time_clock\bin\Debug\Time_clock.exe
+D:\kodcode\Time_clock\Time_clock\bin\Debug\Time_clock.pdb
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.csproj.AssemblyReference.cache
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.Form1.resources
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.Properties.Resources.resources
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.csproj.GenerateResource.cache
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.csproj.CoreCompileInputs.cache
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.exe
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.pdb
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.lblChangePassword.resources
+D:\kodcode\Time_clock\Time_clock\obj\Debug\Time_clock.fmLerning.resources

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<drinks>
+  <drink>
+    <name>שוקו</name>
+    <cacao>2.0</cacao>
+    <milk>1</milk>
+    <coffee>0.5</coffee>
+    <soger>1.5</soger>
+    <price>5</price>
+  </drink>
+  <drink>
+    <name>קפה</name>
+    <cacao>0.0</cacao>
+    <milk>2.5</milk>
+    <Coffee>2.5</Coffee>
+    <soger>2.5</soger>
+    <price>6.5</price>
+  </drink>
+</drinks>

@@ -1,0 +1,10 @@
+D:\kodcode\lerning\bin\Debug\lerning.exe.config
+D:\kodcode\lerning\bin\Debug\lerning.exe
+D:\kodcode\lerning\bin\Debug\lerning.pdb
+D:\kodcode\lerning\obj\Debug\lerning.csproj.AssemblyReference.cache
+D:\kodcode\lerning\obj\Debug\lerning.Properties.Resources.resources
+D:\kodcode\lerning\obj\Debug\lerning.csproj.GenerateResource.cache
+D:\kodcode\lerning\obj\Debug\lerning.csproj.CoreCompileInputs.cache
+D:\kodcode\lerning\obj\Debug\lerning.exe
+D:\kodcode\lerning\obj\Debug\lerning.pdb
+D:\kodcode\lerning\obj\Debug\lerning.btnArrey.resources

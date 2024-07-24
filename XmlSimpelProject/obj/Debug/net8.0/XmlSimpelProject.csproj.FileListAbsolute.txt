@@ -1,0 +1,14 @@
+D:\kodcode\Riposetory\XmlSimpelProject\bin\Debug\net8.0\XmlSimpelProject.exe
+D:\kodcode\Riposetory\XmlSimpelProject\bin\Debug\net8.0\XmlSimpelProject.deps.json
+D:\kodcode\Riposetory\XmlSimpelProject\bin\Debug\net8.0\XmlSimpelProject.runtimeconfig.json
+D:\kodcode\Riposetory\XmlSimpelProject\bin\Debug\net8.0\XmlSimpelProject.dll
+D:\kodcode\Riposetory\XmlSimpelProject\bin\Debug\net8.0\XmlSimpelProject.pdb
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.AssemblyInfoInputs.cache
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.AssemblyInfo.cs
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.csproj.CoreCompileInputs.cache
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.dll
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\refint\XmlSimpelProject.dll
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.pdb
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\XmlSimpelProject.genruntimeconfig.cache
+D:\kodcode\Riposetory\XmlSimpelProject\obj\Debug\net8.0\ref\XmlSimpelProject.dll

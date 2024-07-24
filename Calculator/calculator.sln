@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "calculator\Calculator.csproj", "{198FAD5E-7103-4DE7-9F9A-C067ED99D470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lerning", "..\lerning\lerning.csproj", "{F76F9CEA-5FC9-415F-800C-D6A2DF7DB5CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emploeis", "Emploeis\Emploeis.csproj", "{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198FAD5E-7103-4DE7-9F9A-C067ED99D470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198FAD5E-7103-4DE7-9F9A-C067ED99D470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198FAD5E-7103-4DE7-9F9A-C067ED99D470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198FAD5E-7103-4DE7-9F9A-C067ED99D470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76F9CEA-5FC9-415F-800C-D6A2DF7DB5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76F9CEA-5FC9-415F-800C-D6A2DF7DB5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76F9CEA-5FC9-415F-800C-D6A2DF7DB5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76F9CEA-5FC9-415F-800C-D6A2DF7DB5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7F96FD-879C-43D6-BAFE-D4BC80B377D9}
+	EndGlobalSection
+EndGlobal

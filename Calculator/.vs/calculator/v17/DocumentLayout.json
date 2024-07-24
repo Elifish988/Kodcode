@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kodcode\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|d:\\kodcode\\calculator\\emploeis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|solutionrelative:emploeis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|D:\\kodcode\\Calculator\\emploeis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|solutionrelative:emploeis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|D:\\kodcode\\Calculator\\emploeis\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55047EAC-D4D7-47FF-83D5-74C4F8508DE0}|Emploeis\\Emploeis.csproj|solutionrelative:emploeis\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\kodcode\\Calculator\\Emploeis\\Employ.cs",
+              "RelativeDocumentMoniker": "Emploeis\\Employ.cs",
+              "ToolTip": "D:\\kodcode\\Calculator\\Emploeis\\Employ.cs",
+              "RelativeToolTip": "Emploeis\\Employ.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:32:59.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kodcode\\Calculator\\Emploeis\\Form1.cs",
+              "RelativeDocumentMoniker": "Emploeis\\Form1.cs",
+              "ToolTip": "D:\\kodcode\\Calculator\\Emploeis\\Form1.cs",
+              "RelativeToolTip": "Emploeis\\Form1.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwGIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:56:45.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\kodcode\\Calculator\\Emploeis\\Form1.cs",
+              "RelativeDocumentMoniker": "Emploeis\\Form1.cs",
+              "ToolTip": "D:\\kodcode\\Calculator\\Emploeis\\Form1.cs [Design]",
+              "RelativeToolTip": "Emploeis\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:55:32.708Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
